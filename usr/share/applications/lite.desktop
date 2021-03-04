@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Lite Editor
+Comment=A lua based text editor
+Exec=lite
+Icon=/home/jottley/.icons/lite.svg
+Terminal=false
+Categories=Utility;TextEditor;Development
+Mimetype=text/plain
